@@ -1,4 +1,4 @@
-## Sentiment Analysis with IMDB Reviews## 
+### Sentiment Analysis with IMDB Reviews
 This project is a Deep Learning-based Sentiment Analysis Application for IMDB movie reviews. It leverages a pre-trained Recurrent Neural Network (RNN) model to classify user-submitted reviews as positive or negative.
 
 Features
